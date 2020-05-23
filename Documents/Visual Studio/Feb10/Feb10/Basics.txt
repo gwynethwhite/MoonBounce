@@ -1,0 +1,42 @@
+﻿
+//Namespaces: encapsulation
+// changing scope of project to either limit or widen
+// more about organizaiton and limiting access
+
+//FAQ
+//why would I do this?? Why don't I just write my code to be really simple?
+//  so other people can read it
+//  try to define to someone what your intentions are
+//Why would I put the code in a different namespace?
+//  to limit it from being modified
+//You have to write it this way
+//  why? it works?
+//    its not maintainable, its not sustainable
+//    they see something that you don't that will become a problem
+
+
+//What is a class?
+//  a blueprint for an object
+//  OOP is about creating reusable code
+
+
+//class Program is the default class for a C# program
+//When you run your program, it looks for class Program > main method
+//  it's really looking for program.cs
+//Main is the main method > it is the ENTRY POINT
+
+//QUESTION: I dont understand what he was saying about C# looking for the Progrgam class, can you change the class name??
+//QUESTION: How do you make new files in a project?
+
+//SAME AS JAVA:
+//  return types
+//  static
+//  parameters
+
+
+//C# is a strongly typed language like Java
+//  int x = 5;
+//  Python is a weakly typed languagge
+
+
+//when your application runs, your terminal gets in the way
