@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Astronaut
+  - Selector
+  - Gem
+  - Rock
+  - Mushroom
+  - Box
+  - Grounder
+  - Ceiling
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Ground
+  - Blocks
+  - Selector
+  - Items
+  - Astronaut
+  - Bounds
+  - Ceiling
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3113155903
+    locked: 0
+  - name: Ground
+    uniqueID: 3407592905
+    locked: 0
+  - name: Blocks
+    uniqueID: 3616477973
+    locked: 0
+  - name: Items
+    uniqueID: 1668981897
+    locked: 0
+  - name: Astronaut
+    uniqueID: 3861767121
+    locked: 0
+  - name: UI
+    uniqueID: 3351254587
+    locked: 0
